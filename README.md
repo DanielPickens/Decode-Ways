@@ -1,5 +1,5 @@
 # Decode-Ways: My solution
-My JavaScript solution to Decode Ways on Leetcode
+My JavaScript solution for Decode Ways on Leetcode
 
 
 
