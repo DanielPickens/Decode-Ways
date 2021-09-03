@@ -16,3 +16,8 @@
                 }
                 return dp[s.length];
             };
+
+/*
+Success
+Details 
+Runtime: 68 ms, faster than 97.41% of JavaScript online submissions for Decode Ways.
