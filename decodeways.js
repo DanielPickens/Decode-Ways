@@ -12,7 +12,7 @@ var numDecodings = function(s) {
                         if (num2 > 9 && num2 < 27)
                             dp[i] += dp[i - 2];
                     }
-                    ;
+                    
                 }
                 return dp[s.length];
             };
